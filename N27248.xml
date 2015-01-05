@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:036321_0000_1008E7D4CFAAA690"/>
-            <pb facs="tcp:036321_0001_1008E333934DC9A8"/>
+            <pb facs="unknown:036321_0000_1008E7D4CFAAA690"/>
+            <pb facs="unknown:036321_0001_1008E333934DC9A8"/>
             <head>Last Words AND DYING SPEECH OF SAMUEL SMITH, Who was Executed at Concord, in the County of Middlesex, and Commonwealth of Mas<g ref="char:EOLhyphen"/>sachusetts, the 26th of December, A. D. 1799, for the Crime of BURGLARY.</head>
             <p>I WAS born in <hi>Middleton,</hi> in the County of <hi>Middlesex</hi> and State of <hi>Connecticut,</hi> on the 18th Day of January, A. D. 1745.</p>
             <p>My Parents were honest, industrious, reputable persons; well instructed and much inclined to the Christian Religion, especially my Mother, who is now living to lament the shameful death of her un<g ref="char:EOLhyphen"/>dutiful Son. My Parents gave me but a very or<g ref="char:EOLhyphen"/>dinary education, though I often received from them good moral instructions. I have four Brothers and two Sisters now living, who by their good conduct have made themselves reputable in the World, whilst I, by my bad, have brought myself to the Gallows. I have now but a short time to live and make my Peace with my God. I therefore shall not pretend to recollect and publish to the World every particular Crime, of which I have been guilty; for to do this, would require a Month's time, and a Catalogue of my shameful thefts would fill a large Volume. I passed my childhood, as others, pleas<g ref="char:EOLhyphen"/>ed with my <hi>Toys</hi> and <hi>Rattles,</hi> till age and strength required I should do something for my support: From that time till I arrived to the age of 27, I led an honest industrious life, entirely free, not only from the crime, but without any inclination fraudulently to take the property of another person.</p>
@@ -160,7 +160,7 @@
                      <desc>•</desc>
                   </gap> Concord.—Also at the Printing-Office, in Kilby-Street, Boston.</hi>
             </p>
-            <pb facs="tcp:036321_0002_1008E7B16C67B8B8"/>
+            <pb facs="unknown:036321_0002_1008E7B16C67B8B8"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
